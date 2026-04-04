@@ -3,18 +3,14 @@
 <h5 align="center"><em>Xu Zhang, Danyang Li, Xiaohang Dong, Tianhao Wu, Hualong Yu, Jianye Wang, Qicheng Li, and Xiang Li </em></h5>
 
 
-<p align="center">
-  <a href="#abstract">Abstract</a> 
-</p >
-
 # Overview ✨
 - [Overview ✨](#overview-)
 - [TODO List 📅](#todo-list-)
 - [News 📢](#news-)
 - [Introduction 📄](#introduction-)
-- [Installation](#installation)
-- [License](#license)
-- [Acknowledgement](#acknowledgement)
+- [Installation 🛠️](#installation-️)
+- [License 🔑](#license-)
+- [Acknowledgement 🤝](#acknowledgement-)
 - [Citation 📚](#citation-)
 
 # TODO List 📅
@@ -41,7 +37,7 @@ Change detection (CD) is a fundamental task for monitoring and analysing land co
 
 Figure 1: The overview structure of UniChange is shown in (a). UniChange generates text outputs based on text instructions and dual-temporal remote sensing images. The text outputs incorporate a series of special tokens ([T1], [T2], and [CHANGE]). Concurrently, the dual-temporal remote sensing images undergo feature extraction via the Vision Backbone. These features, alongside the embeddings corresponding to the special tokens, are fed into the Token Driven Decoder. Ultimately, UniChange generates the masks corresponding to the text instructions. The overall structure of the Token Driven Decoder is shown in (b). It receives dual-temporal remote sensing image features and special token embeddings, generating corresponding masks.
 
-# Installation
+# Installation 🛠️
 
 1. Clone this repository and navigate to the base folder
 ```bash
@@ -49,14 +45,14 @@ git clone https://github.com/NKU-HLT/UniChange.git
 cd UniChange
 ```
 
-2. Install packages
+1. Install packages
 ```bash
 conda create -n UniChange python=3.10 -y
 conda activate UniChange
 pip install -r requirements.txt
 ```
 
-3. Install Flash-Attention
+1. Install Flash-Attention
 ```bash
 pip install flash-attn --no-build-isolation
 git clone https://github.com/Dao-AILab/flash-attention.git
@@ -64,10 +60,10 @@ cd flash-attention
 python setup.py install
 ```
 
-# License
+# License 🔑
 This code repository is licensed under [Apache 2.0](./LICENSE).
 
-# Acknowledgement
+# Acknowledgement 🤝
 We would like to thank the following projects for their contributions to this work:
 
 - [LISA](https://github.com/JIA-Lab-research/LISA)
