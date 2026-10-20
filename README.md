@@ -3,10 +3,10 @@
 <h5 align="center"><em>Xu Zhang, Danyang Li, Xiaohang Dong, Tianhao Wu, Hualong Yu, Jianye Wang, Qicheng Li, and Xiang Li </em></h5>
 
 # News 📢
-- **`2026/10/20`** Release dataset and final_weight checkpoints.
-- **`2026/04/04`** Release the training and inference code.
-- **`2026/02/21`** UniChange paper accepted by CVPR 2026. 🎉🎉🎉🎉.
-- **`2025/11/04`** UniChange [paper](https://arxiv.org/abs/2511.02607) is available on arXiv.
+- **2026/10/20** Release dataset and final_weight checkpoints.
+- **2026/04/04** Release the training and inference code.
+- **2026/02/21** UniChange paper accepted by CVPR 2026. 🎉🎉🎉🎉.
+- **2025/11/04** UniChange [paper](https://arxiv.org/abs/2511.02607) is available on arXiv.
 
 # Overview ✨
 - [News 📢](#news-)
