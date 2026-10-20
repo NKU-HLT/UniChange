@@ -5,7 +5,7 @@
 # News 📢
 - **2026/10/20** Release dataset and final_weight checkpoints.
 - **2026/04/04** Release the training and inference code.
-- **2026/02/21** UniChange paper accepted by CVPR 2026. 🎉🎉🎉🎉.
+- **2026/02/21** UniChange paper accepted by CVPR 2026. 🎉🎉
 - **2025/11/04** UniChange [paper](https://arxiv.org/abs/2511.02607) is available on arXiv.
 
 # Overview ✨
