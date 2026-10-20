@@ -1,0 +1,482 @@
+[
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/385.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/385.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/385.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/385.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/385.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/386.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/386.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/386.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/386.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/386.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/387.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/387.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/387.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/387.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/387.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/388.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/388.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/388.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/388.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/388.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/389.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/389.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/389.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/389.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/389.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/390.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/390.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/390.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/390.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/390.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/391.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/391.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/391.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/391.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/391.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/392.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/392.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/392.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/392.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/392.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/393.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/393.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/393.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/393.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/393.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/394.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/394.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/394.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/394.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/394.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/395.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/395.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/395.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/395.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/395.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/396.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/396.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/396.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/396.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/396.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/397.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/397.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/397.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/397.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/397.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/398.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/398.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/398.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/398.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/398.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/399.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/399.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/399.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/399.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/399.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/400.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/400.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/400.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/400.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/400.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/401.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/401.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/401.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/401.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/401.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/402.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/402.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/402.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/402.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/402.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/403.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/403.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/403.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/403.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/403.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/404.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/404.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/404.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/404.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/404.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/405.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/405.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/405.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/405.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/405.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/406.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/406.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/406.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/406.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/406.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/407.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/407.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/407.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/407.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/407.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/408.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/408.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/408.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/408.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/408.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/409.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/409.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/409.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/409.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/409.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/410.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/410.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/410.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/410.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/410.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/411.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/411.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/411.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/411.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/411.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/412.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/412.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/412.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/412.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/412.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/413.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/413.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/413.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/413.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/413.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/414.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/414.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/414.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/414.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/414.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/415.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/415.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/415.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/415.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/415.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/416.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/416.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/416.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/416.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/416.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/417.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/417.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/417.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/417.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/417.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/418.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/418.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/418.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/418.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/418.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/419.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/419.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/419.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/419.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/419.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/420.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/420.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/420.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/420.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/420.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/421.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/421.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/421.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/421.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/421.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/422.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/422.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/422.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/422.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/422.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/423.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/423.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/423.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/423.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/423.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/424.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/424.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/424.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/424.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/424.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/425.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/425.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/425.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/425.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/425.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/426.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/426.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/426.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/426.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/426.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/427.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/427.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/427.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/427.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/427.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/428.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/428.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/428.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/428.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/428.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/429.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/429.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/429.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/429.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/429.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/430.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/430.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/430.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/430.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/430.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/431.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/431.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/431.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/431.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/431.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  },
+  {
+    "imaget1": "UniChange/dataset/WHU-CD-NEW/test/2012/432.tif",
+    "imaget2": "UniChange/dataset/WHU-CD-NEW/test/2016/432.tif",
+    "label": [
+      "UniChange/dataset/WHU-CD-NEW/test/label/432.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label1/432.tif",
+      "UniChange/dataset/WHU-CD-NEW/test/label2/432.tif"
+    ],
+    "text": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <imaget1> is the earlier remote sensing image, and <imaget2> is the later remote sensing image. They are remote sensing images of the same region at different times. Please segment the changed building regions in the dual-temporal remote sensing images. In addition, please segment all buildings present in the dual-temporal remote sensing images. ASSISTANT: The changed building regions are [CHANGE]. The buildings in the time 1 image are [T1]. The buildings in the time 2 image are [T2].</s>"
+  }
+]
